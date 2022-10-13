@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.ComponentModel;
 
 namespace BiomedicalWebApp.Models
 {
@@ -11,16 +12,21 @@ namespace BiomedicalWebApp.Models
             PagoPacientes = new HashSet<PagoPaciente>();
             TurnoPacientes = new HashSet<TurnoPaciente>();
         }
-
+        [DisplayName("ID Paciente")]
         public int IdPaciente { get; set; }
+        [DisplayName("DNI")]
         public string? Dni { get; set; }
+        [DisplayName("Nombre")]
         public string? Nombre { get; set; }
+        [DisplayName("Apellido")]
         public string? Apellido { get; set; }
+        [DisplayName("Fecha de Nacimiento")]
         public DateTime? FechaNacimiento { get; set; }
         public string? Domicilio { get; set; }
         public string? Telefono { get; set; }
         public string? Email { get; set; }
         public string? Observacion { get; set; }
+        [DisplayName("País")]
         public string? IdPais { get; set; }
 
         public virtual Pai? IdPaisNavigation { get; set; }

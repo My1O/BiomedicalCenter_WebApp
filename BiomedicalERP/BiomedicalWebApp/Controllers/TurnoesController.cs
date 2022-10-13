@@ -47,7 +47,7 @@ namespace BiomedicalWebApp.Controllers
         // GET: Turnoes/Create
         public IActionResult Create()
         {
-            ViewData["Estado"] = new SelectList(_context.TurnoEstados, "IdEstado", "IdEstado");
+            ViewData["Estado"] = new SelectList(_context.TurnoEstados, "IdEstado", "Descripcion");
             return View();
         }
 
@@ -81,7 +81,7 @@ namespace BiomedicalWebApp.Controllers
             {
                 return NotFound();
             }
-            ViewData["Estado"] = new SelectList(_context.TurnoEstados, "IdEstado", "IdEstado", turno.Estado);
+            ViewData["Estado"] = new SelectList(_context.TurnoEstados, "IdEstado", "Descripcion", turno.Estado);
             return View(turno);
         }
 
@@ -136,7 +136,8 @@ namespace BiomedicalWebApp.Controllers
             {
                 return NotFound();
             }
-
+            List<TurnoPaciente> tPacientes = await _context.TurnoPacientes.Where(d => d.IdTurno.Equals(id)).ToListAsync();
+            ViewBag.AllowDelete = !tPacientes.Any();
             return View(turno);
         }
 
@@ -157,6 +158,7 @@ namespace BiomedicalWebApp.Controllers
             
             await _context.SaveChangesAsync();
             return RedirectToAction(nameof(Index));
+
         }
 
         private bool TurnoExists(int id)
