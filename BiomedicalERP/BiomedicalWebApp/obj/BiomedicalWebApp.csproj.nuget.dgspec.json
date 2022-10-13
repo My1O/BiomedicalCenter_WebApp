@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Ing.Sis\\BD I\\BiomedicalCenter\\BiomedicalERP\\BiomedicalWebApp\\BiomedicalWebApp.csproj": {}
+    "C:\\Users\\lenovo\\Desktop\\BiomedicalCenter_WebApp\\BiomedicalERP\\BiomedicalWebApp\\BiomedicalWebApp.csproj": {}
   },
   "projects": {
-    "C:\\Ing.Sis\\BD I\\BiomedicalCenter\\BiomedicalERP\\BiomedicalWebApp\\BiomedicalWebApp.csproj": {
+    "C:\\Users\\lenovo\\Desktop\\BiomedicalCenter_WebApp\\BiomedicalERP\\BiomedicalWebApp\\BiomedicalWebApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Ing.Sis\\BD I\\BiomedicalCenter\\BiomedicalERP\\BiomedicalWebApp\\BiomedicalWebApp.csproj",
+        "projectUniqueName": "C:\\Users\\lenovo\\Desktop\\BiomedicalCenter_WebApp\\BiomedicalERP\\BiomedicalWebApp\\BiomedicalWebApp.csproj",
         "projectName": "BiomedicalWebApp",
-        "projectPath": "C:\\Ing.Sis\\BD I\\BiomedicalCenter\\BiomedicalERP\\BiomedicalWebApp\\BiomedicalWebApp.csproj",
-        "packagesPath": "C:\\Users\\castr\\.nuget\\packages\\",
-        "outputPath": "C:\\Ing.Sis\\BD I\\BiomedicalCenter\\BiomedicalERP\\BiomedicalWebApp\\obj\\",
+        "projectPath": "C:\\Users\\lenovo\\Desktop\\BiomedicalCenter_WebApp\\BiomedicalERP\\BiomedicalWebApp\\BiomedicalWebApp.csproj",
+        "packagesPath": "C:\\Users\\lenovo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\lenovo\\Desktop\\BiomedicalCenter_WebApp\\BiomedicalERP\\BiomedicalWebApp\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\castr\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
