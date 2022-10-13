@@ -73,8 +73,8 @@
                 @Html.DisplayFor(modelItem => item.IdPaisNavigation.IdPais)
             </td>
             <td>
-                <a asp-action="Edit" asp-route-id="@item.IdPaciente">Edit</a> |
-                <a asp-action="Details" asp-route-id="@item.IdPaciente">Details</a> |
+                <a asp-controller="Turnoes"   asp-action="Index">Asignar consulta</a> |
+                <a asp-controller="Medicos"  asp-action="Index">Asignar Medico</a> |
                 <a asp-action="Delete" asp-route-id="@item.IdPaciente">Delete</a>
             </td>
         </tr>
