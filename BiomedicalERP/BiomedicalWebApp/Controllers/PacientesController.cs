@@ -136,7 +136,8 @@ namespace BiomedicalWebApp.Controllers
             {
                 return NotFound();
             }
-
+            List<TurnoPaciente> pacientes = await _context.TurnoPacientes.Where(d => d.IdPaciente.Equals(id)).ToListAsync();
+            ViewBag.AllowDelete = !pacientes.Any();
             return View(paciente);
         }
 

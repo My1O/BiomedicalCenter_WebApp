@@ -1,0 +1,53 @@
+﻿@model IEnumerable<BiomedicalWebApp.Models.Turno>
+
+@{
+    ViewData["Title"] = "Turno";
+}
+
+<h1>Generar Consulta</h1>
+
+<p>
+    <a asp-action="Create">Crear nuevo consulta</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.IdTurno)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.FechaTurno)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Observacion)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.EstadoNavigation)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.IdTurno)
+                </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.FechaTurno)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Observacion)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.EstadoNavigation.Descripcion)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.IdTurno">Editar</a> |
+                <a asp-action="Details" asp-route-id="@item.IdTurno">Detalles</a> |
+                <a asp-action="Delete" asp-route-id="@item.IdTurno">Eliminar</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
