@@ -816,3 +816,4 @@ C:\Users\lenovo\Desktop\BiomedicalCenter_WebApp\BiomedicalERP\BiomedicalWebApp\o
 C:\Users\lenovo\Desktop\BiomedicalCenter_WebApp\BiomedicalERP\BiomedicalWebApp\obj\Debug\net6.0\BiomedicalWebApp.pdb
 C:\Users\lenovo\Desktop\BiomedicalCenter_WebApp\BiomedicalERP\BiomedicalWebApp\obj\Debug\net6.0\BiomedicalWebApp.genruntimeconfig.cache
 C:\Users\lenovo\Desktop\BiomedicalCenter_WebApp\BiomedicalERP\BiomedicalWebApp\obj\Debug\net6.0\ref\BiomedicalWebApp.dll
+C:\Ing.Sis\BD I\BiomedicalCenter\BiomedicalERP\BiomedicalWebApp\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
