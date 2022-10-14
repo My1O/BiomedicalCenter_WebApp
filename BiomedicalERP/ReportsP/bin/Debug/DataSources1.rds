@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RptDataSource xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Name="DataSources1">
+  <ConnectionProperties>
+    <Extension>SQL</Extension>
+    <ConnectString>Data Source=LAPTOP-O8MTV2HT;Initial Catalog=BiomedicalCenter</ConnectString>
+  </ConnectionProperties>
+  <DataSourceID>e04a9f27-5c8f-412f-aba7-ee1aede9c090</DataSourceID>
+</RptDataSource>
