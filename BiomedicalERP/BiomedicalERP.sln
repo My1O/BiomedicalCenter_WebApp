@@ -5,6 +5,8 @@ VisualStudioVersion = 17.3.32804.467
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BiomedicalWebApp", "BiomedicalWebApp\BiomedicalWebApp.csproj", "{833ED9AE-CB27-46B2-A9CD-C6169E9AD9D1}"
 EndProject
+Project("{F14B399A-7131-4C87-9E4B-1186C45EF12D}") = "ReportsP", "ReportsP\ReportsP.rptproj", "{B80A58F5-AA2E-4BED-BFE6-ADDF7909A9A7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,6 +20,14 @@ Global
 		{833ED9AE-CB27-46B2-A9CD-C6169E9AD9D1}.DebugLocal|Any CPU.Build.0 = Debug|Any CPU
 		{833ED9AE-CB27-46B2-A9CD-C6169E9AD9D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{833ED9AE-CB27-46B2-A9CD-C6169E9AD9D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B80A58F5-AA2E-4BED-BFE6-ADDF7909A9A7}.Debug|Any CPU.ActiveCfg = Debug
+		{B80A58F5-AA2E-4BED-BFE6-ADDF7909A9A7}.Debug|Any CPU.Build.0 = Debug
+		{B80A58F5-AA2E-4BED-BFE6-ADDF7909A9A7}.Debug|Any CPU.Deploy.0 = Debug
+		{B80A58F5-AA2E-4BED-BFE6-ADDF7909A9A7}.DebugLocal|Any CPU.ActiveCfg = DebugLocal
+		{B80A58F5-AA2E-4BED-BFE6-ADDF7909A9A7}.DebugLocal|Any CPU.Build.0 = DebugLocal
+		{B80A58F5-AA2E-4BED-BFE6-ADDF7909A9A7}.Release|Any CPU.ActiveCfg = Release
+		{B80A58F5-AA2E-4BED-BFE6-ADDF7909A9A7}.Release|Any CPU.Build.0 = Release
+		{B80A58F5-AA2E-4BED-BFE6-ADDF7909A9A7}.Release|Any CPU.Deploy.0 = Release
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
