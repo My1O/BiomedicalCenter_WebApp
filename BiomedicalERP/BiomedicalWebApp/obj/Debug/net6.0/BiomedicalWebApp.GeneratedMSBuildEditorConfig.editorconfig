@@ -8,141 +8,141 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = BiomedicalWebApp
 build_property.RootNamespace = BiomedicalWebApp
-build_property.ProjectDir = C:\Users\Johnny\Desktop\BiomedicalCenter_WebApp\BiomedicalERP\BiomedicalWebApp\
+build_property.ProjectDir = C:\Users\lenovo\Documents\PROYECTO BASE DE DATOS\BiomedicalCenter_WebApp\BiomedicalERP\BiomedicalWebApp\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\Johnny\Desktop\BiomedicalCenter_WebApp\BiomedicalERP\BiomedicalWebApp
+build_property.MSBuildProjectDirectory = C:\Users\lenovo\Documents\PROYECTO BASE DE DATOS\BiomedicalCenter_WebApp\BiomedicalERP\BiomedicalWebApp
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/Johnny/Desktop/BiomedicalCenter_WebApp/BiomedicalERP/BiomedicalWebApp/Areas/Identity/Pages/Account/Login.cshtml]
+[C:/Users/lenovo/Documents/PROYECTO BASE DE DATOS/BiomedicalCenter_WebApp/BiomedicalERP/BiomedicalWebApp/Areas/Identity/Pages/Account/Login.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxMb2dpbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Johnny/Desktop/BiomedicalCenter_WebApp/BiomedicalERP/BiomedicalWebApp/Areas/Identity/Pages/Account/_ViewImports.cshtml]
+[C:/Users/lenovo/Documents/PROYECTO BASE DE DATOS/BiomedicalCenter_WebApp/BiomedicalERP/BiomedicalWebApp/Areas/Identity/Pages/Account/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxfVmlld0ltcG9ydHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Johnny/Desktop/BiomedicalCenter_WebApp/BiomedicalERP/BiomedicalWebApp/Areas/Identity/Pages/_ValidationScriptsPartial.cshtml]
+[C:/Users/lenovo/Documents/PROYECTO BASE DE DATOS/BiomedicalCenter_WebApp/BiomedicalERP/BiomedicalWebApp/Areas/Identity/Pages/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZhbGlkYXRpb25TY3JpcHRzUGFydGlhbC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Johnny/Desktop/BiomedicalCenter_WebApp/BiomedicalERP/BiomedicalWebApp/Areas/Identity/Pages/_ViewImports.cshtml]
+[C:/Users/lenovo/Documents/PROYECTO BASE DE DATOS/BiomedicalCenter_WebApp/BiomedicalERP/BiomedicalWebApp/Areas/Identity/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Johnny/Desktop/BiomedicalCenter_WebApp/BiomedicalERP/BiomedicalWebApp/Areas/Identity/Pages/_ViewStart.cshtml]
+[C:/Users/lenovo/Documents/PROYECTO BASE DE DATOS/BiomedicalCenter_WebApp/BiomedicalERP/BiomedicalWebApp/Areas/Identity/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Johnny/Desktop/BiomedicalCenter_WebApp/BiomedicalERP/BiomedicalWebApp/Views/Home/Index.cshtml]
+[C:/Users/lenovo/Documents/PROYECTO BASE DE DATOS/BiomedicalCenter_WebApp/BiomedicalERP/BiomedicalWebApp/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Johnny/Desktop/BiomedicalCenter_WebApp/BiomedicalERP/BiomedicalWebApp/Views/Home/Privacy.cshtml]
+[C:/Users/lenovo/Documents/PROYECTO BASE DE DATOS/BiomedicalCenter_WebApp/BiomedicalERP/BiomedicalWebApp/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Johnny/Desktop/BiomedicalCenter_WebApp/BiomedicalERP/BiomedicalWebApp/Views/Medicos/Create.cshtml]
+[C:/Users/lenovo/Documents/PROYECTO BASE DE DATOS/BiomedicalCenter_WebApp/BiomedicalERP/BiomedicalWebApp/Views/Medicos/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVkaWNvc1xDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Johnny/Desktop/BiomedicalCenter_WebApp/BiomedicalERP/BiomedicalWebApp/Views/Medicos/Delete.cshtml]
+[C:/Users/lenovo/Documents/PROYECTO BASE DE DATOS/BiomedicalCenter_WebApp/BiomedicalERP/BiomedicalWebApp/Views/Medicos/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVkaWNvc1xEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Johnny/Desktop/BiomedicalCenter_WebApp/BiomedicalERP/BiomedicalWebApp/Views/Medicos/Details.cshtml]
+[C:/Users/lenovo/Documents/PROYECTO BASE DE DATOS/BiomedicalCenter_WebApp/BiomedicalERP/BiomedicalWebApp/Views/Medicos/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVkaWNvc1xEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Johnny/Desktop/BiomedicalCenter_WebApp/BiomedicalERP/BiomedicalWebApp/Views/Medicos/Edit.cshtml]
+[C:/Users/lenovo/Documents/PROYECTO BASE DE DATOS/BiomedicalCenter_WebApp/BiomedicalERP/BiomedicalWebApp/Views/Medicos/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVkaWNvc1xFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Johnny/Desktop/BiomedicalCenter_WebApp/BiomedicalERP/BiomedicalWebApp/Views/Medicos/Index.cshtml]
+[C:/Users/lenovo/Documents/PROYECTO BASE DE DATOS/BiomedicalCenter_WebApp/BiomedicalERP/BiomedicalWebApp/Views/Medicos/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVkaWNvc1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Johnny/Desktop/BiomedicalCenter_WebApp/BiomedicalERP/BiomedicalWebApp/Views/Pacientes/Create.cshtml]
+[C:/Users/lenovo/Documents/PROYECTO BASE DE DATOS/BiomedicalCenter_WebApp/BiomedicalERP/BiomedicalWebApp/Views/Pacientes/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFjaWVudGVzXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Johnny/Desktop/BiomedicalCenter_WebApp/BiomedicalERP/BiomedicalWebApp/Views/Pacientes/Delete.cshtml]
+[C:/Users/lenovo/Documents/PROYECTO BASE DE DATOS/BiomedicalCenter_WebApp/BiomedicalERP/BiomedicalWebApp/Views/Pacientes/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFjaWVudGVzXERlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Johnny/Desktop/BiomedicalCenter_WebApp/BiomedicalERP/BiomedicalWebApp/Views/Pacientes/Details.cshtml]
+[C:/Users/lenovo/Documents/PROYECTO BASE DE DATOS/BiomedicalCenter_WebApp/BiomedicalERP/BiomedicalWebApp/Views/Pacientes/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFjaWVudGVzXERldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Johnny/Desktop/BiomedicalCenter_WebApp/BiomedicalERP/BiomedicalWebApp/Views/Pacientes/Edit.cshtml]
+[C:/Users/lenovo/Documents/PROYECTO BASE DE DATOS/BiomedicalCenter_WebApp/BiomedicalERP/BiomedicalWebApp/Views/Pacientes/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFjaWVudGVzXEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Johnny/Desktop/BiomedicalCenter_WebApp/BiomedicalERP/BiomedicalWebApp/Views/Pacientes/Index.cshtml]
+[C:/Users/lenovo/Documents/PROYECTO BASE DE DATOS/BiomedicalCenter_WebApp/BiomedicalERP/BiomedicalWebApp/Views/Pacientes/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFjaWVudGVzXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Johnny/Desktop/BiomedicalCenter_WebApp/BiomedicalERP/BiomedicalWebApp/Views/Shared/Error.cshtml]
+[C:/Users/lenovo/Documents/PROYECTO BASE DE DATOS/BiomedicalCenter_WebApp/BiomedicalERP/BiomedicalWebApp/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Johnny/Desktop/BiomedicalCenter_WebApp/BiomedicalERP/BiomedicalWebApp/Views/Shared/_LoginPartial.cshtml]
+[C:/Users/lenovo/Documents/PROYECTO BASE DE DATOS/BiomedicalCenter_WebApp/BiomedicalERP/BiomedicalWebApp/Views/Shared/_LoginPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Johnny/Desktop/BiomedicalCenter_WebApp/BiomedicalERP/BiomedicalWebApp/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/lenovo/Documents/PROYECTO BASE DE DATOS/BiomedicalCenter_WebApp/BiomedicalERP/BiomedicalWebApp/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Johnny/Desktop/BiomedicalCenter_WebApp/BiomedicalERP/BiomedicalWebApp/Views/Turnoes/Create.cshtml]
+[C:/Users/lenovo/Documents/PROYECTO BASE DE DATOS/BiomedicalCenter_WebApp/BiomedicalERP/BiomedicalWebApp/Views/Turnoes/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHVybm9lc1xDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Johnny/Desktop/BiomedicalCenter_WebApp/BiomedicalERP/BiomedicalWebApp/Views/Turnoes/Delete.cshtml]
+[C:/Users/lenovo/Documents/PROYECTO BASE DE DATOS/BiomedicalCenter_WebApp/BiomedicalERP/BiomedicalWebApp/Views/Turnoes/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHVybm9lc1xEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Johnny/Desktop/BiomedicalCenter_WebApp/BiomedicalERP/BiomedicalWebApp/Views/Turnoes/Details.cshtml]
+[C:/Users/lenovo/Documents/PROYECTO BASE DE DATOS/BiomedicalCenter_WebApp/BiomedicalERP/BiomedicalWebApp/Views/Turnoes/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHVybm9lc1xEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Johnny/Desktop/BiomedicalCenter_WebApp/BiomedicalERP/BiomedicalWebApp/Views/Turnoes/Edit.cshtml]
+[C:/Users/lenovo/Documents/PROYECTO BASE DE DATOS/BiomedicalCenter_WebApp/BiomedicalERP/BiomedicalWebApp/Views/Turnoes/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHVybm9lc1xFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Johnny/Desktop/BiomedicalCenter_WebApp/BiomedicalERP/BiomedicalWebApp/Views/Turnoes/Index.cshtml]
+[C:/Users/lenovo/Documents/PROYECTO BASE DE DATOS/BiomedicalCenter_WebApp/BiomedicalERP/BiomedicalWebApp/Views/Turnoes/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHVybm9lc1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Johnny/Desktop/BiomedicalCenter_WebApp/BiomedicalERP/BiomedicalWebApp/Views/TurnoP/Create.cshtml]
+[C:/Users/lenovo/Documents/PROYECTO BASE DE DATOS/BiomedicalCenter_WebApp/BiomedicalERP/BiomedicalWebApp/Views/TurnoP/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHVybm9QXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Johnny/Desktop/BiomedicalCenter_WebApp/BiomedicalERP/BiomedicalWebApp/Views/TurnoP/Delete.cshtml]
+[C:/Users/lenovo/Documents/PROYECTO BASE DE DATOS/BiomedicalCenter_WebApp/BiomedicalERP/BiomedicalWebApp/Views/TurnoP/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHVybm9QXERlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Johnny/Desktop/BiomedicalCenter_WebApp/BiomedicalERP/BiomedicalWebApp/Views/TurnoP/Details.cshtml]
+[C:/Users/lenovo/Documents/PROYECTO BASE DE DATOS/BiomedicalCenter_WebApp/BiomedicalERP/BiomedicalWebApp/Views/TurnoP/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHVybm9QXERldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Johnny/Desktop/BiomedicalCenter_WebApp/BiomedicalERP/BiomedicalWebApp/Views/TurnoP/Edit.cshtml]
+[C:/Users/lenovo/Documents/PROYECTO BASE DE DATOS/BiomedicalCenter_WebApp/BiomedicalERP/BiomedicalWebApp/Views/TurnoP/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHVybm9QXEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Johnny/Desktop/BiomedicalCenter_WebApp/BiomedicalERP/BiomedicalWebApp/Views/TurnoP/Index.cshtml]
+[C:/Users/lenovo/Documents/PROYECTO BASE DE DATOS/BiomedicalCenter_WebApp/BiomedicalERP/BiomedicalWebApp/Views/TurnoP/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHVybm9QXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Johnny/Desktop/BiomedicalCenter_WebApp/BiomedicalERP/BiomedicalWebApp/Views/_ViewImports.cshtml]
+[C:/Users/lenovo/Documents/PROYECTO BASE DE DATOS/BiomedicalCenter_WebApp/BiomedicalERP/BiomedicalWebApp/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Johnny/Desktop/BiomedicalCenter_WebApp/BiomedicalERP/BiomedicalWebApp/Views/_ViewStart.cshtml]
+[C:/Users/lenovo/Documents/PROYECTO BASE DE DATOS/BiomedicalCenter_WebApp/BiomedicalERP/BiomedicalWebApp/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Johnny/Desktop/BiomedicalCenter_WebApp/BiomedicalERP/BiomedicalWebApp/Views/Shared/_Layout.cshtml]
+[C:/Users/lenovo/Documents/PROYECTO BASE DE DATOS/BiomedicalCenter_WebApp/BiomedicalERP/BiomedicalWebApp/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-w8xcakeg29
