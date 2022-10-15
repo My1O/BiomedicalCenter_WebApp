@@ -82,7 +82,7 @@ FROM            MedicoEspecialidad INNER JOIN
                             <Paragraph>
                               <TextRuns>
                                 <TextRun>
-                                  <Value>=Fields!Nombre.Value + " "+ Fields!Apellido.Value</Value>
+                                  <Value>Perfil Médico</Value>
                                   <Style>
                                     <FontFamily />
                                     <FontSize>16pt</FontSize>
@@ -103,26 +103,6 @@ FROM            MedicoEspecialidad INNER JOIN
                               <Style>Solid</Style>
                               <Width>1.5pt</Width>
                             </Border>
-                            <TopBorder>
-                              <Color>Olive</Color>
-                              <Style>Solid</Style>
-                              <Width>1.5pt</Width>
-                            </TopBorder>
-                            <BottomBorder>
-                              <Color>Olive</Color>
-                              <Style>Solid</Style>
-                              <Width>1.5pt</Width>
-                            </BottomBorder>
-                            <LeftBorder>
-                              <Color>Olive</Color>
-                              <Style>Solid</Style>
-                              <Width>1.5pt</Width>
-                            </LeftBorder>
-                            <RightBorder>
-                              <Color>Olive</Color>
-                              <Style>Solid</Style>
-                              <Width>1.5pt</Width>
-                            </RightBorder>
                             <PaddingLeft>2pt</PaddingLeft>
                             <PaddingRight>2pt</PaddingRight>
                             <PaddingTop>2pt</PaddingTop>
@@ -941,8 +921,8 @@ FROM            MedicoEspecialidad INNER JOIN
               </TablixMembers>
             </TablixRowHierarchy>
             <DataSetName>DataSet1</DataSetName>
-            <Height>2.62958in</Height>
-            <Width>6.54167in</Width>
+            <Height>2.62959in</Height>
+            <Width>6.54166in</Width>
             <Style>
               <Border>
                 <Style>Solid</Style>

@@ -7,7 +7,7 @@
 <h1>Lista de Pacientes</h1>
 
 <p>
-    <a asp-action="Create">Añadir nuevo paciente</a>
+    <a asp-action="Create" class="btn btn-info">Añadir nuevo paciente</a>
 </p>
 <table class="table">
     <thead>
@@ -73,9 +73,9 @@
                 @Html.DisplayFor(modelItem => item.IdPaisNavigation.IdPais)
             </td>
             <td>
-                <a asp-controller="TurnoP"   asp-action="Index">Asignar consulta</a> 
-                <a asp-action="Delete" asp-route-id="@item.IdPaciente">Borrar</a>
-                <a asp-action="Edit" asp-route-id="@item.IdPaciente">Editar</a>
+                    <a asp-controller="TurnoP" asp-action="Index" class="btn btn-secondary">Asignar consulta</a>
+                    <a asp-action="Delete" asp-route-id="@item.IdPaciente" class="btn btn-danger">Eliminar</a>
+                <a asp-action="Edit" asp-route-id="@item.IdPaciente" class="btn btn-success">Editar</a>
             </td>
         </tr>
 }
