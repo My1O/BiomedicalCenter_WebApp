@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Ing.Sis\\BD I\\BiomedicalCenter\\BiomedicalERP\\BiomedicalWebApp\\BiomedicalWebApp.csproj": {}
+    "C:\\Users\\Johnny\\Desktop\\BiomedicalCenter_WebApp\\BiomedicalERP\\BiomedicalWebApp\\BiomedicalWebApp.csproj": {}
   },
   "projects": {
-    "C:\\Ing.Sis\\BD I\\BiomedicalCenter\\BiomedicalERP\\BiomedicalWebApp\\BiomedicalWebApp.csproj": {
+    "C:\\Users\\Johnny\\Desktop\\BiomedicalCenter_WebApp\\BiomedicalERP\\BiomedicalWebApp\\BiomedicalWebApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Ing.Sis\\BD I\\BiomedicalCenter\\BiomedicalERP\\BiomedicalWebApp\\BiomedicalWebApp.csproj",
+        "projectUniqueName": "C:\\Users\\Johnny\\Desktop\\BiomedicalCenter_WebApp\\BiomedicalERP\\BiomedicalWebApp\\BiomedicalWebApp.csproj",
         "projectName": "BiomedicalWebApp",
-        "projectPath": "C:\\Ing.Sis\\BD I\\BiomedicalCenter\\BiomedicalERP\\BiomedicalWebApp\\BiomedicalWebApp.csproj",
-        "packagesPath": "C:\\Users\\castr\\.nuget\\packages\\",
-        "outputPath": "C:\\Ing.Sis\\BD I\\BiomedicalCenter\\BiomedicalERP\\BiomedicalWebApp\\obj\\",
+        "projectPath": "C:\\Users\\Johnny\\Desktop\\BiomedicalCenter_WebApp\\BiomedicalERP\\BiomedicalWebApp\\BiomedicalWebApp.csproj",
+        "packagesPath": "C:\\Users\\Johnny\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Johnny\\Desktop\\BiomedicalCenter_WebApp\\BiomedicalERP\\BiomedicalWebApp\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\castr\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Johnny\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -46,11 +50,11 @@
             },
             "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[6.0.9, )"
+              "version": "[6.0.10, )"
             },
             "Microsoft.AspNetCore.Identity.UI": {
               "target": "Package",
-              "version": "[6.0.9, )"
+              "version": "[6.0.10, )"
             },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
@@ -86,7 +90,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     }

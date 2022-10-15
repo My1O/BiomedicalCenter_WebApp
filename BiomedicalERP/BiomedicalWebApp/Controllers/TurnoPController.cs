@@ -6,9 +6,11 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
 using BiomedicalWebApp.Models;
+using Microsoft.AspNetCore.Authorization;
 
 namespace BiomedicalWebApp.Controllers
 {
+    [Authorize]
     public class TurnoPController : Controller
     {
         private readonly BiomedicalCenterContext _context;

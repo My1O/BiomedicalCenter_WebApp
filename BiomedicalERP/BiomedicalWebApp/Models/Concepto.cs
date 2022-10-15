@@ -1,8 +1,16 @@
-﻿using System;
+﻿using Microsoft.EntityFrameworkCore;
+using System;
 using System.Collections.Generic;
 
 namespace BiomedicalWebApp.Models
 {
+
+    [Keyless]
+    public class BlogPostsCount
+    {
+        public string BlogName { get; set; }
+        public int PostCount { get; set; }
+    }
     public partial class Concepto
     {
         public Concepto()
