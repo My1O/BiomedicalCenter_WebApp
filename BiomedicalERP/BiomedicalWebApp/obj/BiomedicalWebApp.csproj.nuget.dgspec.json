@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lenovo\\Desktop\\BiomedicalCenter_WebApp\\BiomedicalERP\\BiomedicalWebApp\\BiomedicalWebApp.csproj": {}
+    "C:\\Users\\lenovo\\Documents\\PROYECTO BASE DE DATOS\\BiomedicalCenter_WebApp\\BiomedicalERP\\BiomedicalWebApp\\BiomedicalWebApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lenovo\\Desktop\\BiomedicalCenter_WebApp\\BiomedicalERP\\BiomedicalWebApp\\BiomedicalWebApp.csproj": {
+    "C:\\Users\\lenovo\\Documents\\PROYECTO BASE DE DATOS\\BiomedicalCenter_WebApp\\BiomedicalERP\\BiomedicalWebApp\\BiomedicalWebApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lenovo\\Desktop\\BiomedicalCenter_WebApp\\BiomedicalERP\\BiomedicalWebApp\\BiomedicalWebApp.csproj",
+        "projectUniqueName": "C:\\Users\\lenovo\\Documents\\PROYECTO BASE DE DATOS\\BiomedicalCenter_WebApp\\BiomedicalERP\\BiomedicalWebApp\\BiomedicalWebApp.csproj",
         "projectName": "BiomedicalWebApp",
-        "projectPath": "C:\\Users\\lenovo\\Desktop\\BiomedicalCenter_WebApp\\BiomedicalERP\\BiomedicalWebApp\\BiomedicalWebApp.csproj",
+        "projectPath": "C:\\Users\\lenovo\\Documents\\PROYECTO BASE DE DATOS\\BiomedicalCenter_WebApp\\BiomedicalERP\\BiomedicalWebApp\\BiomedicalWebApp.csproj",
         "packagesPath": "C:\\Users\\lenovo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lenovo\\Desktop\\BiomedicalCenter_WebApp\\BiomedicalERP\\BiomedicalWebApp\\obj\\",
+        "outputPath": "C:\\Users\\lenovo\\Documents\\PROYECTO BASE DE DATOS\\BiomedicalCenter_WebApp\\BiomedicalERP\\BiomedicalWebApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

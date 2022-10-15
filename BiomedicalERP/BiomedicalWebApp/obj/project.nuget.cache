@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7USAIwX6Tbwz+GIRgVggnGpAisOgUH040kWo/nnB2stV3SaMbNEfFNZj4ojWmepSK3j1cnsof4Wa+Vql0Me55Q==",
+  "dgSpecHash": "nl8F+8j4zHRbk66PbrtTPzqIktI2qgZJJEhVJOkIKTiR0umL2qp2zremqP4Pw6rD9QLuuJw3x4Z2Jh2yQv22bA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\lenovo\\Desktop\\BiomedicalCenter_WebApp\\BiomedicalERP\\BiomedicalWebApp\\BiomedicalWebApp.csproj",
+  "projectFilePath": "C:\\Users\\lenovo\\Documents\\PROYECTO BASE DE DATOS\\BiomedicalCenter_WebApp\\BiomedicalERP\\BiomedicalWebApp\\BiomedicalWebApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\lenovo\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\lenovo\\.nuget\\packages\\messagepack\\2.1.152\\messagepack.2.1.152.nupkg.sha512",
